@@ -1,0 +1,1 @@
+package com.company;class Test extends Main {    public static void testM()    {        System.out.println("Test \r\n test");        int te = 123;        System.out.println(te);        String ren = "";        String ren2 = ren;        //test        //one more test        //1234                    }    }
